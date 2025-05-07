@@ -26,6 +26,8 @@ public class menualfa extends javax.swing.JFrame {
     private String name;
     public menualfa() {
         initComponents();
+          
+    
         
         jbtnalfa.setBackground(Color.BLUE);
         jbtnvocal.setBackground(Color.red);
