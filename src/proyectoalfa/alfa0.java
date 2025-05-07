@@ -5,6 +5,8 @@
  */
 package proyectoalfa;
 
+import java.applet.AudioClip;
+
 
 
 
@@ -24,7 +26,7 @@ public class alfa0 extends javax.swing.JFrame {
    
     public alfa0() {
         initComponents();
-    
+   
     }
     
     
