@@ -170,6 +170,7 @@ public class menualfa extends javax.swing.JFrame {
 
     private void jbtnoracionesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_jbtnoracionesActionPerformed
         // TODO add your handling code here:
+        
        
 
   
